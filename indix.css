@@ -9,7 +9,7 @@
 }
 
 body {
-	background-color: #111;
+	background-color: hwb(0 7% 93%);
 	height: 162vh;
 	width: auto;
 }
